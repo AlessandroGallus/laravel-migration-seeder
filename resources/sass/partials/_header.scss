@@ -1,0 +1,20 @@
+header{
+  display: flex;
+  background-color: darkorange;
+  .left{
+    width: 50%;
+    padding: 20px;
+  }
+  .right{
+    width: 50%;
+    text-align: right;
+    padding: 20px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  ul{
+    list-style: none;
+  }
+}
